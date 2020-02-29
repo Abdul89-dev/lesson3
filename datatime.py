@@ -20,4 +20,4 @@ print( d.day, d.month, d.year)
 
 from datetime import datetime
 deadline = datetime.strptime("01/01/2017 12:10:03.234567", "%d/%m/%Y%H%M%S.%P")
-print(deadline)  
+print(deadline)   
